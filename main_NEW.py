@@ -657,4 +657,3 @@ if __name__ == '__main__':
         p.map(strat_main_with_mp.main, tickers)  # TODO how to correctly pass in sheet_data_dict ?
 
     print("SCRIPT COMPLETED")
-    print('Sample change for testing commit')
